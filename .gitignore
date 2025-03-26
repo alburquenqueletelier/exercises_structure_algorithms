@@ -1,0 +1,6 @@
+# exclude objects .o
+*
+!*/
+!*.c
+!*.h
+!.gitignore
